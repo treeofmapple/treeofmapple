@@ -1,15 +1,17 @@
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap" rel="stylesheet">
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pogeku.writing&right_color=purple" />
 
-<br>
+
 <br>
 
-<div align="center">
+<div align="center" style="font-family: 'Barlow', sans-serif;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=300&size=56&pause=1000&color=8723FF&center=true&random=false&width=600&height=100&lines=Hello+;I'm+Samuel+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 ---
 
 <div style="text-align: center;">
-A passionate Software Engineer specializing in Java and Spring. With medium-level experience in building robust, scalable applications and a keen eye for detail in software testing, I thrive on solving complex problems and optimizing performance.
+A passionate Software Engineer specializing in Java and Spring. With medium-level experience in building scalable applications and a keen eye for detail in software testing, I thrive on solving complex problems and optimizing performance.
 </div>
 <br>
 I love programming and in spare time listen some musics and play videogames. 🎻🕹️
@@ -35,7 +37,14 @@ I love programming and in spare time listen some musics and play videogames. �
 
 <br>
 
-- [Working on the Project list on my Roadmap](https://github.com/users/treeofmapple/projects/8)
+<div style="text-align:center; color:#EA22F5;">
+<a href="https://github.com/users/treeofmapple/projects/8" target="_blank" style="color:#EA22F5;">
+Working on the Project list on my Roadmap
+</a>
+<div>
+Follow my Roadmap to see what i'm working currently
+</div>
+</div>
 
 <br>
 
@@ -46,6 +55,7 @@ I love programming and in spare time listen some musics and play videogames. �
 
 ### <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools  🛠️</b></summary>
 [![My Skills](https://skillicons.dev/icons?i=java,git,docker,postman,html,css,figma,nodejs,javascript,spring,maven,kafka,postgresql,mysql,bash,next,react,angular,aws,blender,redis&perline=10)](https://skillicons.dev)
+
 </div>
 
----
+</div>
