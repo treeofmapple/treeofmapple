@@ -1,11 +1,9 @@
-<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap" rel="stylesheet">
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pogeku.writing&right_color=purple" />
 
 
 <br>
 
-<div align="center" style="font-family: 'Barlow', sans-serif;">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=300&size=56&pause=1000&color=8723FF&center=true&random=false&width=600&height=100&lines=Hello+;I'm+Samuel+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 ---
@@ -37,14 +35,9 @@ I love programming and in spare time listen some musics and play videogames. �
 
 <br>
 
-<div style="text-align:center; color:#EA22F5;">
-<a href="https://github.com/users/treeofmapple/projects/8" target="_blank" style="color:#EA22F5;">
-Working on the Project list on my Roadmap
-</a>
-<div>
-Follow my Roadmap to see what i'm working currently
-</div>
-</div>
+- [**Working on the Project list on my Roadmap**](https://github.com/users/treeofmapple/projects/8)
+
+Follow my Roadmap to see what I'm currently working on!
 
 <br>
 
@@ -55,7 +48,5 @@ Follow my Roadmap to see what i'm working currently
 
 ### <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools  🛠️</b></summary>
 [![My Skills](https://skillicons.dev/icons?i=java,git,docker,postman,html,css,figma,nodejs,javascript,spring,maven,kafka,postgresql,mysql,bash,next,react,angular,aws,blender,redis&perline=10)](https://skillicons.dev)
-
-</div>
 
 </div>
