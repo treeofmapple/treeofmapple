@@ -62,10 +62,3 @@ I love programming and in spare time listen some musics and play videogames. �
 
 ---
 
-
-### 📕 Lastest Blog Posts
-<div>
-
-<div align="left">
-
-- [More soon]() 🛠️ On development
