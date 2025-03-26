@@ -46,6 +46,6 @@ I love programming and in spare time listen some musics and play videogames. �
 
 ### <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools  🛠️</b></summary>
 [![My Skills](https://skillicons.dev/icons?i=java,git,docker,postman,html,css,figma,nodejs,javascript,spring,maven,kafka,postgresql,mysql,bash,next,react,angular,aws,blender,redis&perline=10)](https://skillicons.dev)
-
+</div>
 
 ---
