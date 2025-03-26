@@ -35,22 +35,10 @@ I love programming and in spare time listen some musics and play videogames. ðŸŽ
 
 <br>
 
-- [Building some good projects for React and Angular]()
-- [Building upgrading my Spring Boot projects]()
-- [Building my blog]()
+- [Working on the Project list on my Roadmap](https://github.com/users/treeofmapple/projects/8)
 
 <br>
 
----
-
-<div align="center">
-
-
-### ðŸŒ± Currently Learning:
-</div>
-
-
-- Learning a bit more on Front End Frameworks: React and AngularJS
 
 ---
 
@@ -61,4 +49,3 @@ I love programming and in spare time listen some musics and play videogames. ðŸŽ
 
 
 ---
-
