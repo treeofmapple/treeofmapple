@@ -35,7 +35,7 @@ I love programming and in spare time listen some musics and play videogames. �
 
 <br>
 
-- [**Working on the Project list on my Roadmap**](https://github.com/users/treeofmapple/projects/8)
+- [**Nothing for now**](https://)
 
 Follow my Roadmap to see what I'm currently working on!
 
@@ -47,6 +47,6 @@ Follow my Roadmap to see what I'm currently working on!
 <div align="center">
 
 ### <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools  🛠️</b></summary>
-[![My Skills](https://skillicons.dev/icons?i=java,git,docker,postman,html,css,figma,nodejs,javascript,spring,maven,kafka,postgresql,mysql,bash,next,react,angular,aws,blender,redis&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust,typescript,spring,angular,py,postgresql,dynamodb,css,aws,kafka,redis,grafana,prometheus,blender,figma,docker,postman&perline=10)](https://skillicons.dev)
 
 </div>
