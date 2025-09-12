@@ -9,10 +9,10 @@
 ---
 
 <div style="text-align: center;">
-A passionate Software Engineer specializing in Java and Spring. With medium-level experience in building scalable applications and a keen eye for detail in software testing, I thrive on solving complex problems and optimizing performance.
+A passionate Software Engineer specializing in Spring Boot and angular. With high experience in building scalable applications and a keen eye for detail in software optmization, I thrive on solving complex problems and optimizing performance.
 </div>
 <br>
-I love programming and in spare time listen some musics and play videogames. 🎻🕹️
+I love music and in the spare time play videogames. 🕹️
 
 <div align="center">
 
