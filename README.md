@@ -47,6 +47,6 @@ Follow my Roadmap to see what I'm currently working on!
 <div align="center">
 
 ### <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools  🛠️</b></summary>
-[![My Skills](https://skillicons.dev/icons?i=java,rust,py,typescript,css,spring,angular,postgresql,rabbitmq,redis,grafana,prometheus,docker,aws,postmanblender,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust,py,typescript,css,spring,angular,postgresql,rabbitmq,redis,grafana,prometheus,docker,aws,postman,blender,figma&perline=10)](https://skillicons.dev)
 
 </div>
