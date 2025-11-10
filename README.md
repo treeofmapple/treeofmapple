@@ -31,20 +31,6 @@ I love music and in the spare time play videogames. 🕹️
 
 ---
 
-### 🧰 Working on: 
-</div>
-
-<br>
-
-- [**Nothing for now**](https://)
-
-Follow my Roadmap to see what I'm currently working on!
-
-<br>
-
-
----
-
 <div align="center">
 
 ### <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools  🛠️</b></summary>
